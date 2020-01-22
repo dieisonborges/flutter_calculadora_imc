@@ -15,3 +15,23 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 # flutter_calculadora_imc
+
+#Seção 13: App nº2 - Cálculo do IMC
+7 / 8|42m
+
+44. Introdução ao App Cálculo do IMC
+2m
+
+45. Scaffold e AppBar
+7m
+
+46. TextField e Decoration
+7m
+
+47. ScrollView e RaisedButton
+8m
+
+48. Controller e Cálculos
+10m
+
+49. Formulários e Validações
